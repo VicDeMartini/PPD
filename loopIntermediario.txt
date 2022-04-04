@@ -1,0 +1,21 @@
+Número de Threads =  6
+Total time = 8.309249 seconds
+
+real	0m8.325s
+user	0m49.823s
+sys	0m0.020s
+
+Número de Threads =  12
+Total time = 6.100534 seconds
+
+real	0m6.117s
+user	1m12.952s
+sys	0m0.031s
+
+Número de Threads =  24
+Total time = 6.368074 seconds
+
+real	0m6.386s
+user	1m5.320s
+sys	0m0.190s
+
